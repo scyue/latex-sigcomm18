@@ -28,4 +28,4 @@ print:	$P.ps
 dist:	$P.ps.gz
 
 clean:
-	$(RM) $P.log $P.aux $P.bbl $P.blg $P.out $P.dvi $P.ps $P.ps.gz $P.pdf texput.log
+	$(RM) $P.log $P.aux $P.bbl $P.blg $P.out $P.dvi $P.ps $P.ps.gz texput.log
